@@ -59,5 +59,5 @@ Expanded heist system
 This is an early release project. Expect updates, improvements, and changes over time.
 
 ❤️ Credits
-AV — Original creator
-AK Scripts — Helped turn this into a standalone script and provided fixes
+Frp Dev — Original creator
+AK Scripts -> Helped turn this into a standalone script and provided fixes
