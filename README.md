@@ -1,22 +1,52 @@
-# AV-Laptop-Gang-Script
+🚀 Features
+👥 Gang System
+Create and manage gangs
+Role system: Boss - Co-leader - Member - Hangaround (member+ can spray, hangaround + can clean)
 
-Gang creation & management system
-Gang ranks (boss, co-leader, members, hangarounds)
-Xp Spraying
-Drug or illegal activity system
-Laptop UI from AV_laptop(tablet-style interface inside game)
-Apps like:
-Gang dashboard
-Shop / black market
-Missions / heists
-Member management
-Airdrop management
-Spray management
-Live map for admins where you can create your gangzones.
-/setnpc ''gangname'' ''npcmodel''
-/setgang ''id'' ''gangname'' ''grade''
+Member management system
+📱 AV_Laptop Integration
 
-With help from AV-scripts we've been able to make this script standalone and he patched and worked on a few things for me such as alligning the sprays to make it better.
-This is my first ever release so feel free to use this or help build it better!
+Tablet-style UI with multiple tabs:
+Gang Dashboard
+Shop / Black Market
+Missions / Heists
+Member Management
+Airdrop Management
+Spray Management
+Live Admin Map (gang zones)
 
-I'm very excited to share this and can't wait to start more projects!
+🎯 XP / Spray System
+Spray system for territory control
+Aligned wall spray placement (optimized with AV-scripts help)
+Gang influence tracking
+
+💊 Illegal Activity System
+Expandable mission-based structure
+
+🛠️ Admin Commands
+/setnpc "gangname" "npcmodel"
+/setgang "id" "gangname" "grade"
+
+🗺️ Admin Map Tools
+Live map for administrators
+Create and manage gang zones in real time
+
+🔧 Dependencies
+AV_Laptop (required)
+AV-scripts (recommended for optimization / enhancements)
+
+📦 Notes
+This script was built as a standalone system and improved with help from AV-scripts, including:
+
+💡 Future Ideas
+Territory wars / kos
+Dynamic economy per gang
+Heat / wanted system integration
+Expanded heist system
+
+⚠️ Disclaimer
+This is an early release project. Expect updates, improvements, and changes over time.
+
+❤️ Credits
+AV — Original creator
+AK Scripts — Helped turn this into a standalone script and provided fixes
