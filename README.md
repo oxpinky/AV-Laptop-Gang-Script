@@ -38,7 +38,7 @@ Create and manage gang zones in real time
 🔧 Dependencies
 
 AV_Laptop (required)
-frp-gangs (recommended for optimization / enhancements)
+frp-gangs
 
 📦 Notes
 
